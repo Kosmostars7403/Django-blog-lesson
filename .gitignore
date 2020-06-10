@@ -9,7 +9,6 @@ __pycache__/
 venv/
 config/
 .DS_Store
-media/
 
 # C extensions
 *.so
